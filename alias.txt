@@ -1,0 +1,9 @@
+alias cls="clear"
+alias projet="cd ~/Bureau/projet/"
+alias gt="git status"
+alias gdev="git checkout dev"
+alias alia="vim ~/.zshrc"
+alias gs="git submodule init && git submodule update"
+#config i3
+alias ci="vim ~/.config/i3/config"
+alias ddesk="systemctl --user stop docker-desktop && systemctl --user start docker-desktop"
