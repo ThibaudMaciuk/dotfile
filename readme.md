@@ -1,6 +1,6 @@
-#DOTFILE
+# DOTFILE
 
-> ##Requirement : 
+> ## Requirement : 
 >	- i3 with gaps
 >	- arandr
 >	- polybar
